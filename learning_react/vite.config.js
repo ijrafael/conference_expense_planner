@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-    base: "/conference_express_planner",
+    base: "/learning_react",
   plugins: [react()],
 })
